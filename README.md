@@ -1,111 +1,165 @@
-# 👋 Olá! Eu sou o Marcos Antônio
+# 👨‍💻 Marcos Lú Dev Full Stack
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**, com formação em **Gestão Empresarial**.
+Me chamo **Marcos Antônio Sálvio Lú**, sou de **SP**. Sou formado em **Gestão Empresarial pela Fatec Americana** e atualmente curso **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**.
 
-💻 Desenvolvedor em formação, com experiência prática em desenvolvimento **Front-End, Back-End e Mobile**, criação e consumo de APIs e banco de dados.
+Atuo como **Professor de Desenvolvimento Web** e possuo experiência profissional como **Analista de E-Commerce**, além de mais de 8 anos de experiência nas áreas de vendas, atendimento e comércio eletrônico.
 
-👨‍🏫 Também atuo como **Professor de Desenvolvimento Web**, compartilhando conhecimentos de programação e desenvolvimento de sistemas.
+Atualmente, direciono minha carreira para a área de **Tecnologia**, desenvolvendo projetos Web, Mobile e Back-End. Tenho experiência com **JavaScript, TypeScript, Python, SQL, React, React Native, Node.js e FastAPI**, além de conhecimentos em APIs REST, bancos de dados, Git/GitHub e Linux.
 
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvendo projetos Web, Mobile e Back-End
-- ⚛️ Experiência com React.js e React Native
-- 🐍 Desenvolvimento de APIs com Python e FastAPI
-- 🟢 Desenvolvimento Back-End com Node.js
-- 🗄️ Conhecimentos em SQL e bancos de dados
-- 🔐 Estudando Segurança da Informação
-- 🤖 Interesse em Inteligência Artificial e automação
-- 📚 Sempre buscando aprender novas tecnologias
+Tenho interesse especial por **Desenvolvimento de Software, Inteligência Artificial, Automação, Infraestrutura e Segurança da Informação**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-### Linguagens
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
-### Front-End
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 
-### Back-End e APIs
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
-### Mobile
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
-### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📌 Projetos em destaque
+### 📱 Desenvolvimento Mobile
 
-### 💰 Dev-Lu-Finanças
+Tenho desenvolvido aplicações utilizando **React Native e Expo**, trabalhando com componentes, navegação, consumo de APIs, autenticação, gerenciamento de estado e persistência de sessão.
 
-Aplicativo de controle financeiro desenvolvido com **React Native**, permitindo:
+Entre meus projetos está o **Dev-Lu-Finanças**, aplicativo de controle financeiro que permite cadastro, login e gerenciamento de receitas e despesas.
 
-- Cadastro e autenticação de usuários
-- Persistência de sessão
-- Registro de receitas e despesas
-- Histórico de movimentações
-- Filtro de registros por data
-- Integração com API
-
-🔗 [Acessar projeto](https://github.com/MarcosSLu/Dev-Lu-Finan-as)
+🔗 [Dev-Lu-Finanças](https://github.com/MarcosSLu/Dev-Lu-Finan-as)
 
 ---
 
-## 🎓 Formação
+### 🚀 Back-End e APIs
 
-📚 **Análise e Desenvolvimento de Sistemas**  
-Descomplica
+Possuo experiência acadêmica e prática no desenvolvimento e consumo de **APIs REST**, utilizando tecnologias como:
 
-🔐 **Segurança da Informação**
-
-🎓 **Gestão Empresarial**  
-FATEC Americana
-
----
-
-## 📊 GitHub Stats
-
-![Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosSLu&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSLu&layout=compact&theme=github_dark)
+- Node.js
+- Spring Boot
+- JavaScript / TypeScript
+- Java
+- SQL
+- JSON
+- Arquitetura cliente-servidor
 
 ---
 
-## 📫 Vamos nos conectar
+### 🔐 Segurança e Infraestrutura
 
-[![GitHub](https://img.shields.io/badge/GitHub-MarcosSLu-181717?style=for-the-badge&logo=github)](https://github.com/MarcosSLu)
+Atualmente também estudo **Segurança da Informação**, ampliando meus conhecimentos em:
 
-💼 Aberto a oportunidades nas áreas de **Desenvolvimento de Software, Suporte, Infraestrutura e Segurança da Informação**.
+- Linux
+- Redes
+- Segurança de sistemas
+- Controle de acesso e permissões
+- Infraestrutura
+- Virtualização
 
----
-
-⭐ **Obrigado por visitar meu perfil!**
